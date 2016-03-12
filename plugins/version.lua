@@ -1,17 +1,14 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'ZDragonBOT 1'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  سازنده حسن شاه دراگون
+  @ZDragonKNight
   
-  Channel : @Nod32team
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  github : https://github.com/ZDragonKNight
   
-  NOD32 VERSION 8
-  
-  All rights reserved.
   __________________]]
 end
 
@@ -25,7 +22,4 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+
